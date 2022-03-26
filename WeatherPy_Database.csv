@@ -1,0 +1,48 @@
+City_ID,City,Country,Lat,Lng,Max Temp,Humidity,Cloudiness,Wind Speed,Current Description
+0,Zunyi,CN,27.6867,106.9072,52.84,91,100,4.97,overcast clouds
+1,Sweetwater,US,25.7634,-80.3731,79.02,85,20,11.5,few clouds
+2,Puerto Ayora,EC,-0.7393,-90.3518,78.58,82,80,7.18,broken clouds
+3,Shivrajpur,IN,22.4167,73.65,93.16,13,51,6.85,broken clouds
+4,Coquimbo,CL,-29.9533,-71.3436,62.19,77,0,0.58,clear sky
+5,Bluff,NZ,-46.6,168.3333,53.42,72,0,8.25,clear sky
+6,Georgetown,MY,5.4112,100.3354,85.95,81,20,3.44,few clouds
+7,Esperance,AU,-33.8667,121.9,62.44,69,0,15.73,clear sky
+8,Araouane,ML,18.9048,-3.5265,97.3,6,70,10.27,broken clouds
+9,Gunnedah,AU,-30.9833,150.25,64.04,83,99,5.55,overcast clouds
+10,Pouembout,NC,-21.1333,164.9,75.49,89,87,4.59,overcast clouds
+11,Batabano,CU,22.7164,-82.2881,74.01,68,0,12.71,clear sky
+12,Hermanus,ZA,-34.4187,19.2345,73.8,73,23,13.94,light rain
+13,Albany,US,42.6001,-73.9662,36.68,92,100,1.99,overcast clouds
+14,Khatanga,RU,71.9667,102.5,-0.22,96,100,6.4,overcast clouds
+15,Tuktoyaktuk,CA,69.4541,-133.0374,-22.31,98,37,8.01,scattered clouds
+16,Punta Arenas,CL,-53.15,-70.9167,46.51,76,20,17.27,few clouds
+17,Sangar,RU,63.9242,127.4739,16.45,93,100,12.62,light snow
+18,East London,ZA,-33.0153,27.9116,70.74,94,20,11.5,few clouds
+19,Tonj,SS,7.2737,28.6822,103.35,17,10,6.33,clear sky
+20,Cape Town,ZA,-33.9258,18.4232,78.28,44,20,12.66,few clouds
+21,Kapaa,US,22.0752,-159.319,73.38,85,40,24.16,light rain
+22,Tasiilaq,GL,65.6145,-37.6368,21.36,64,100,3.51,overcast clouds
+23,Chokurdakh,RU,70.6333,147.9167,-7.67,100,99,1.88,overcast clouds
+24,Biograd Na Moru,HR,43.9433,15.4519,66.9,47,0,10.33,clear sky
+25,Rikitea,PF,-23.1203,-134.9692,78.71,74,100,14.99,overcast clouds
+26,Guerrero Negro,MX,27.9769,-114.0611,59.92,38,0,3.65,clear sky
+27,Vuktyl,RU,63.8567,57.3094,24.64,96,100,10.6,snow
+28,Si Racha,TH,13.1737,100.9311,91.04,79,92,10.16,overcast clouds
+29,Vaini,TO,-21.2,-175.2,73.56,100,75,0.0,broken clouds
+30,Jiaojiang,CN,28.6803,121.4428,53.87,85,92,4.21,overcast clouds
+31,Ushuaia,AR,-54.8,-68.3,46.02,76,75,13.8,broken clouds
+32,Belaya Gora,RU,68.5333,146.4167,-1.52,100,97,2.62,overcast clouds
+33,Korla,CN,41.7597,86.1469,44.62,56,100,3.13,overcast clouds
+34,Kahului,US,20.8947,-156.47,71.62,83,75,12.66,light rain
+35,Sampang,ID,-7.1872,113.2394,80.96,81,82,7.9,broken clouds
+36,Saposoa,PE,-6.934,-76.7716,74.93,91,83,1.01,broken clouds
+37,Mataura,NZ,-46.1927,168.8643,43.43,90,0,2.59,clear sky
+38,Bathsheba,BB,13.2167,-59.5167,79.41,73,20,27.63,few clouds
+39,Barrow,US,71.2906,-156.7887,-7.58,71,0,21.85,haze
+40,Taoudenni,ML,22.6783,-3.9836,94.78,6,0,11.25,clear sky
+41,Saldanha,ZA,-33.0117,17.9442,75.25,73,0,15.9,clear sky
+42,Ganzhou,CN,28.8184,115.4327,57.61,98,100,4.14,overcast clouds
+43,Provideniya,RU,64.3833,-173.3,7.25,67,0,8.5,clear sky
+44,Severo-Kurilsk,RU,50.6789,156.125,27.95,87,100,4.41,light snow
+45,Komsomolskiy,UZ,40.4272,71.7189,47.12,71,75,4.61,broken clouds
+46,Busselton,AU,-33.65,115.3333,68.72,43,0,11.72,clear sky
